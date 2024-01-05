@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [AntonyJudeShaman/commerce](https://github.com/AntonyJudeShaman/commerce)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|12/12/23 <br/>Report generated|
+|23<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -189,9 +189,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -200,6 +200,7 @@ Full tech stack [here](/techstack.md)
 |[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.2.14|10/27/23|Lee Robinson |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v9.0.0|10/27/23|Lee Robinson |MIT|N/A|
 |[eslint-plugin-unicorn](https://www.npmjs.com/eslint-plugin-unicorn)|v48.0.1|10/27/23|Lee Robinson |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v15.0.2|10/27/23|Lee Robinson |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|10/27/23|Lee Robinson |MIT|N/A|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.5|10/27/23|Lee Robinson |MIT|N/A|
 
